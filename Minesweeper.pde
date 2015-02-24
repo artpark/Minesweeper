@@ -5,7 +5,7 @@ private ArrayList <MSButton> bombs; //ArrayList of just the minesweeper buttons 
 private static final int NUM_ROWS = 20;
 private static final int NUM_COLS = 20;
 //Set the number of bombs here
-private static final int NUM_BOMBS = 1;
+private static final int NUM_BOMBS = 20;
 
 String[] loseMessage = {
   "Y", "O", "U", " ", "L", "O", "S", "E", "!"
