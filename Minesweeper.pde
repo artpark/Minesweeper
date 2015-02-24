@@ -170,7 +170,7 @@ public class MSButton
       if (!isWon())
         fill(0);
       else
-        fill(#FFF527);
+        fill(color(255,255,0));
     else if ( clicked && bombs.contains(this) ) 
       fill(255, 0, 0);
     else if (clicked)
